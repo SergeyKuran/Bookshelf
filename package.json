@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Yarzik7.github.io/project-DreamTeam",
+  "homepage": "https://SergeyKuran.github.io/Bookshelf",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-DreamTeam/"
+    "build": "parcel build src/*.html --public-url /Bookshelf/"
   },
   "repository": {
     "type": "git",
